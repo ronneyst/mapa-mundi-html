@@ -1,2 +1,2 @@
 # mapa-mundi-html
-simples representação do mapa mundi, com imagens .png
+representação do mapa mundi, com imagens .png
